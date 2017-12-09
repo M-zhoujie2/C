@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c++/array.o: c++/array.cpp.o
+c/The_Fourth_Chapter/pizza.o: c/The_Fourth_Chapter/pizza.c.o
 
-.PHONY : c++/array.o
+.PHONY : c/The_Fourth_Chapter/pizza.o
 
 # target to build an object file
-c++/array.cpp.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c++/array.cpp.o
-.PHONY : c++/array.cpp.o
+c/The_Fourth_Chapter/pizza.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.o
+.PHONY : c/The_Fourth_Chapter/pizza.c.o
 
-c++/array.i: c++/array.cpp.i
+c/The_Fourth_Chapter/pizza.i: c/The_Fourth_Chapter/pizza.c.i
 
-.PHONY : c++/array.i
+.PHONY : c/The_Fourth_Chapter/pizza.i
 
 # target to preprocess a source file
-c++/array.cpp.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c++/array.cpp.i
-.PHONY : c++/array.cpp.i
+c/The_Fourth_Chapter/pizza.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.i
+.PHONY : c/The_Fourth_Chapter/pizza.c.i
 
-c++/array.s: c++/array.cpp.s
+c/The_Fourth_Chapter/pizza.s: c/The_Fourth_Chapter/pizza.c.s
 
-.PHONY : c++/array.s
+.PHONY : c/The_Fourth_Chapter/pizza.s
 
 # target to generate assembly for a file
-c++/array.cpp.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c++/array.cpp.s
-.PHONY : c++/array.cpp.s
+c/The_Fourth_Chapter/pizza.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.s
+.PHONY : c/The_Fourth_Chapter/pizza.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c++/array.o"
-	@echo "... c++/array.i"
-	@echo "... c++/array.s"
+	@echo "... c/The_Fourth_Chapter/pizza.o"
+	@echo "... c/The_Fourth_Chapter/pizza.i"
+	@echo "... c/The_Fourth_Chapter/pizza.s"
 .PHONY : help
 
 

@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/c++/array.cpp.o"
+  "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C)
   include(CMakeFiles/zhou_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

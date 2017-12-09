@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++11 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c++/array.cpp.o  -o zhou_c 
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.o  -o zhou_c 

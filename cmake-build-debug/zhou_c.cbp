@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhoujie/zhou_c/c++/array.cpp">
+		<Unit filename="/Users/zhoujie/zhou_c/c/The Fourth Chapter/pizza.c">
 			<Option target="zhou_c"/>
 		</Unit>
 		<Unit filename="/Users/zhoujie/zhou_c/CMakeLists.txt">

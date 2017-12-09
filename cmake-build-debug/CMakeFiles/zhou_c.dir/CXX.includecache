@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/student.cpp
+/Users/zhoujie/zhou_c/c++/array.cpp
 iostream
+-
+iomanip
 -
 
