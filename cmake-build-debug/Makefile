@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Fourth_Chapter/pizza.o: c/The_Fourth_Chapter/pizza.c.o
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o
 
-.PHONY : c/The_Fourth_Chapter/pizza.o
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o
 
 # target to build an object file
-c/The_Fourth_Chapter/pizza.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.o
-.PHONY : c/The_Fourth_Chapter/pizza.c.o
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o"
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o
 
-c/The_Fourth_Chapter/pizza.i: c/The_Fourth_Chapter/pizza.c.i
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i
 
-.PHONY : c/The_Fourth_Chapter/pizza.i
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i
 
 # target to preprocess a source file
-c/The_Fourth_Chapter/pizza.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.i
-.PHONY : c/The_Fourth_Chapter/pizza.c.i
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i"
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i
 
-c/The_Fourth_Chapter/pizza.s: c/The_Fourth_Chapter/pizza.c.s
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s
 
-.PHONY : c/The_Fourth_Chapter/pizza.s
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s
 
 # target to generate assembly for a file
-c/The_Fourth_Chapter/pizza.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.s
-.PHONY : c/The_Fourth_Chapter/pizza.c.s
+c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s"
+.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Fourth_Chapter/pizza.o"
-	@echo "... c/The_Fourth_Chapter/pizza.i"
-	@echo "... c/The_Fourth_Chapter/pizza.s"
+	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o"
+	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i"
+	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s"
 .PHONY : help
 
 

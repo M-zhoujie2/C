@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/zhoujie/zhou_c/c/The Fourth Chapter/pizza.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/pizza.c.o"
+  "/Users/zhoujie/zhou_c/c/The Fourth Chapter/4.4print()和scanf()/varwid.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

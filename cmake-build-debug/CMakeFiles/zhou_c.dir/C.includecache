@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/c/The Fourth Chapter/pizza.c
+/Users/zhoujie/zhou_c/c/The Fourth Chapter/4.4print()和scanf()/varwid.c
 stdio.h
 -
 stdlib.h
--
-limits.h
--
-float.h
 -
 
