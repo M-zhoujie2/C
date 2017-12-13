@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o"
+  "CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )

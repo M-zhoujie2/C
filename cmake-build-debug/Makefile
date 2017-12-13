@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o
+c/The_Five_Chapter/5.2基本运算符/wheat.o: c/The_Five_Chapter/5.2基本运算符/wheat.c.o
 
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.o
 
 # target to build an object file
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o"
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.o
+c/The_Five_Chapter/5.2基本运算符/wheat.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.o
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.o
 
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i
+c/The_Five_Chapter/5.2基本运算符/wheat.i: c/The_Five_Chapter/5.2基本运算符/wheat.c.i
 
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.i
 
 # target to preprocess a source file
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i"
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.i
+c/The_Five_Chapter/5.2基本运算符/wheat.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.i
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.i
 
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s: c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s
+c/The_Five_Chapter/5.2基本运算符/wheat.s: c/The_Five_Chapter/5.2基本运算符/wheat.c.s
 
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.s
 
 # target to generate assembly for a file
-c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s"
-.PHONY : c/The_Fourth_Chapter/4.4print()和scanf()/varwid.c.s
+c/The_Five_Chapter/5.2基本运算符/wheat.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.s
+.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.o"
-	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.i"
-	@echo "... c/The_Fourth_Chapter/4.4print()和scanf()/varwid.s"
+	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.o"
+	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.i"
+	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.s"
 .PHONY : help
 
 
