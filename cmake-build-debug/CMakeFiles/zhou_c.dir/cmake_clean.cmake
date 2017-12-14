@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.o"
+  "CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )

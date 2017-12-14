@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Five_Chapter/5.2基本运算符/wheat.o: c/The_Five_Chapter/5.2基本运算符/wheat.c.o
+c/The_Five_Chapter/5.7示例程序/running.o: c/The_Five_Chapter/5.7示例程序/running.c.o
 
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.o
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.o
 
 # target to build an object file
-c/The_Five_Chapter/5.2基本运算符/wheat.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.o
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.o
+c/The_Five_Chapter/5.7示例程序/running.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.o
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.o
 
-c/The_Five_Chapter/5.2基本运算符/wheat.i: c/The_Five_Chapter/5.2基本运算符/wheat.c.i
+c/The_Five_Chapter/5.7示例程序/running.i: c/The_Five_Chapter/5.7示例程序/running.c.i
 
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.i
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.i
 
 # target to preprocess a source file
-c/The_Five_Chapter/5.2基本运算符/wheat.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.i
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.i
+c/The_Five_Chapter/5.7示例程序/running.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.i
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.i
 
-c/The_Five_Chapter/5.2基本运算符/wheat.s: c/The_Five_Chapter/5.2基本运算符/wheat.c.s
+c/The_Five_Chapter/5.7示例程序/running.s: c/The_Five_Chapter/5.7示例程序/running.c.s
 
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.s
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.s
 
 # target to generate assembly for a file
-c/The_Five_Chapter/5.2基本运算符/wheat.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.2基本运算符/wheat.c.s
-.PHONY : c/The_Five_Chapter/5.2基本运算符/wheat.c.s
+c/The_Five_Chapter/5.7示例程序/running.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.s
+.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.o"
-	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.i"
-	@echo "... c/The_Five_Chapter/5.2基本运算符/wheat.s"
+	@echo "... c/The_Five_Chapter/5.7示例程序/running.o"
+	@echo "... c/The_Five_Chapter/5.7示例程序/running.i"
+	@echo "... c/The_Five_Chapter/5.7示例程序/running.s"
 .PHONY : help
 
 
