@@ -13,4 +13,3 @@ int main(void) {
     printf("That's all this program does.\n");
     return EXIT_SUCCESS;
 }
-

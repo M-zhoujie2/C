@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.o  -o zhou_c 
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.o  -o zhou_c 

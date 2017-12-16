@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/zhoujie/zhou_c/c/The Five Chapter/5.7示例程序/running.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.o"
+  "/Users/zhoujie/zhou_c/c/The Six Chapter/6.10嵌套循环/power.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

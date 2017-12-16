@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhoujie/zhou_c/c/The Five Chapter/5.7示例程序/running.c">
+		<Unit filename="/Users/zhoujie/zhou_c/c/The Six Chapter/6.10嵌套循环/power.c">
 			<Option target="zhou_c"/>
 		</Unit>
 		<Unit filename="/Users/zhoujie/zhou_c/CMakeLists.txt">

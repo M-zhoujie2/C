@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Five_Chapter/5.7示例程序/running.o: c/The_Five_Chapter/5.7示例程序/running.c.o
+c/The_Six_Chapter/6.10嵌套循环/power.o: c/The_Six_Chapter/6.10嵌套循环/power.c.o
 
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.o
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.o
 
 # target to build an object file
-c/The_Five_Chapter/5.7示例程序/running.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.o
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.o
+c/The_Six_Chapter/6.10嵌套循环/power.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.o
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.o
 
-c/The_Five_Chapter/5.7示例程序/running.i: c/The_Five_Chapter/5.7示例程序/running.c.i
+c/The_Six_Chapter/6.10嵌套循环/power.i: c/The_Six_Chapter/6.10嵌套循环/power.c.i
 
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.i
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.i
 
 # target to preprocess a source file
-c/The_Five_Chapter/5.7示例程序/running.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.i
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.i
+c/The_Six_Chapter/6.10嵌套循环/power.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.i
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.i
 
-c/The_Five_Chapter/5.7示例程序/running.s: c/The_Five_Chapter/5.7示例程序/running.c.s
+c/The_Six_Chapter/6.10嵌套循环/power.s: c/The_Six_Chapter/6.10嵌套循环/power.c.s
 
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.s
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.s
 
 # target to generate assembly for a file
-c/The_Five_Chapter/5.7示例程序/running.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Five_Chapter/5.7示例程序/running.c.s
-.PHONY : c/The_Five_Chapter/5.7示例程序/running.c.s
+c/The_Six_Chapter/6.10嵌套循环/power.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.s
+.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Five_Chapter/5.7示例程序/running.o"
-	@echo "... c/The_Five_Chapter/5.7示例程序/running.i"
-	@echo "... c/The_Five_Chapter/5.7示例程序/running.s"
+	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.o"
+	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.i"
+	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.s"
 .PHONY : help
 
 

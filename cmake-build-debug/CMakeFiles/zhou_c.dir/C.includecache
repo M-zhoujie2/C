@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/c/The Five Chapter/5.7示例程序/running.c
+/Users/zhoujie/zhou_c/c/The Six Chapter/6.10嵌套循环/power.c
 stdio.h
 -
 stdlib.h
