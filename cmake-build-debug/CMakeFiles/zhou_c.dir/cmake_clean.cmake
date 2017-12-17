@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.o"
+  "CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )

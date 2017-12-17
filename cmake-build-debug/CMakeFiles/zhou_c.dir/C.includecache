@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/c/The Six Chapter/6.10嵌套循环/power.c
+/Users/zhoujie/zhou_c/c/The Senver Chapter/7.6循环辅助：continue和break/skippart.c
 stdio.h
 -
 stdlib.h

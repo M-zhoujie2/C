@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Six_Chapter/6.10嵌套循环/power.o: c/The_Six_Chapter/6.10嵌套循环/power.c.o
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.o: c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o
 
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.o
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.o
 
 # target to build an object file
-c/The_Six_Chapter/6.10嵌套循环/power.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.o
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.o
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o
 
-c/The_Six_Chapter/6.10嵌套循环/power.i: c/The_Six_Chapter/6.10嵌套循环/power.c.i
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.i: c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i
 
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.i
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.i
 
 # target to preprocess a source file
-c/The_Six_Chapter/6.10嵌套循环/power.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.i
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.i
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i
 
-c/The_Six_Chapter/6.10嵌套循环/power.s: c/The_Six_Chapter/6.10嵌套循环/power.c.s
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.s: c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s
 
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.s
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.s
 
 # target to generate assembly for a file
-c/The_Six_Chapter/6.10嵌套循环/power.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Six_Chapter/6.10嵌套循环/power.c.s
-.PHONY : c/The_Six_Chapter/6.10嵌套循环/power.c.s
+c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s
+.PHONY : c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.o"
-	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.i"
-	@echo "... c/The_Six_Chapter/6.10嵌套循环/power.s"
+	@echo "... c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.o"
+	@echo "... c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.i"
+	@echo "... c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.s"
 .PHONY : help
 
 
