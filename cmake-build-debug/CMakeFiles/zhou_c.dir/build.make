@@ -57,38 +57,38 @@ include CMakeFiles/zhou_c.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/zhou_c.dir/flags.make
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o: CMakeFiles/zhou_c.dir/flags.make
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o: ../c/The\ Senver\ Chapter/7.6循环辅助：continue和break/skippart.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o   -c "/Users/zhoujie/zhou_c/c/The Senver Chapter/7.6循环辅助：continue和break/skippart.c"
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o: CMakeFiles/zhou_c.dir/flags.make
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o: ../c/The\ Eight\ Chapter/8.5创建更友好的用户见面/showchar2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o   -c "/Users/zhoujie/zhou_c/c/The Eight Chapter/8.5创建更友好的用户见面/showchar2.c"
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/zhoujie/zhou_c/c/The Senver Chapter/7.6循环辅助：continue和break/skippart.c" > CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.i
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/zhoujie/zhou_c/c/The Eight Chapter/8.5创建更友好的用户见面/showchar2.c" > CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/zhoujie/zhou_c/c/The Senver Chapter/7.6循环辅助：continue和break/skippart.c" -o CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.s
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/zhoujie/zhou_c/c/The Eight Chapter/8.5创建更友好的用户见面/showchar2.c" -o CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.requires:
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.requires:
 
-.PHONY : CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.requires
+.PHONY : CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.requires
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.provides: CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.requires
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.provides.build
-.PHONY : CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.provides
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.provides: CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.requires
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.provides.build
+.PHONY : CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.provides
 
-CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.provides.build: CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o
+CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.provides.build: CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o
 
 
 # Object files for target zhou_c
 zhou_c_OBJECTS = \
-"CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o"
+"CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o"
 
 # External object files for target zhou_c
 zhou_c_EXTERNAL_OBJECTS =
 
-zhou_c: CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o
+zhou_c: CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o
 zhou_c: CMakeFiles/zhou_c.dir/build.make
 zhou_c: CMakeFiles/zhou_c.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable zhou_c"
@@ -99,7 +99,7 @@ CMakeFiles/zhou_c.dir/build: zhou_c
 
 .PHONY : CMakeFiles/zhou_c.dir/build
 
-CMakeFiles/zhou_c.dir/requires: CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o.requires
+CMakeFiles/zhou_c.dir/requires: CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o.requires
 
 .PHONY : CMakeFiles/zhou_c.dir/requires
 

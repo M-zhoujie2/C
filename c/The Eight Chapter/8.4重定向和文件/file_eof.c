@@ -1,0 +1,26 @@
+//
+// Created by zhoujie on 2017/12/17.
+//
+
+//程序清单8.3 file_eof.c 程序
+//file_eof.c -- 打开一个文件并显示该文件
+#include <stdio.h>
+#include <stdlib.h>
+int main (void) {   //为了使用exit()
+    int ch;
+    FILE *fp;
+    char fname[150]; //存储文件名
+
+    printf("Enter the name of the file: ");
+    scanf("%s", fname);
+    fp = fopen(fname, "r"); //打开待读取文件
+    if (fp == NULL) {
+        printf("Failed to open file. Bye\n");
+        exit(1); //退出文件
+    }
+    //getc(fp)从打开的文件中获取一个字符
+    while ((ch = getc(fp)) != EOF)
+        putchar(ch);
+    fclose(fp); //关闭文件
+    return EXIT_SUCCESS;
+}

@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c/The_Senver_Chapter/7.6循环辅助：continue和break/skippart.c.o  -o zhou_c 
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o  -o zhou_c 
