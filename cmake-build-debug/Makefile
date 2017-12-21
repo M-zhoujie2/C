@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.o: c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.o: c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.o
 
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.o
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.o
 
 # target to build an object file
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.o
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.o
 
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.i: c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.i: c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.i
 
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.i
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.i
 
 # target to preprocess a source file
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.i
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.i
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.i
 
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.s: c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.s: c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.s
 
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.s
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.s
 
 # target to generate assembly for a file
-c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s
-.PHONY : c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.s
+c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.s
+.PHONY : c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.o"
-	@echo "... c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.i"
-	@echo "... c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.s"
+	@echo "... c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.o"
+	@echo "... c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.i"
+	@echo "... c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.s"
 .PHONY : help
 
 

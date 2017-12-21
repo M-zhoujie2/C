@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhoujie/zhou_c/c/The Eight Chapter/8.5创建更友好的用户见面/showchar2.c">
+		<Unit filename="/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/usehotel.c">
 			<Option target="zhou_c"/>
 		</Unit>
 		<Unit filename="/Users/zhoujie/zhou_c/CMakeLists.txt">

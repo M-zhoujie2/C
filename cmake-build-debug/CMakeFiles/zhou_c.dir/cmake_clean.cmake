@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/c/The_Eight_Chapter/8.5创建更友好的用户见面/showchar2.c.o"
+  "CMakeFiles/zhou_c.dir/c/The_Nine_Chapter/9.4编译多源代码文件的程序/usehotel.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )

@@ -6,9 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/c/The Eight Chapter/8.5创建更友好的用户见面/showchar2.c
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/hotel.c
 stdio.h
 -
 stdlib.h
 -
+hotel.h
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/hotel.h
+
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/hotel.h
+
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/usehotel.c
+stdio.h
+-
+stdlib.h
+-
+hotel.h
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/hotel.h
+hotel.c
+/Users/zhoujie/zhou_c/c/The Nine Chapter/9.4编译多源代码文件的程序/hotel.c
 
