@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/zhoujie/zhou_c/c/C Primer Plus(第六版)/The Ten Chapter/10.7指针和多维数组/zippo2.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
+  "/Users/zhoujie/zhou_c/C Primer Plus(第六版)/The Ten Chapter/10.7指针和多维数组/zippo2.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

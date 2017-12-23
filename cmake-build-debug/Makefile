@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o: c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
 
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o
 
 # target to build an object file
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
 
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i: c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
 
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i
 
 # target to preprocess a source file
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i"
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i"
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
 
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s: c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
 
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s
 
 # target to generate assembly for a file
-c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s"
-.PHONY : c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
+C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s"
+.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o"
-	@echo "... c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i"
-	@echo "... c/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s"
+	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o"
+	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i"
+	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s"
 .PHONY : help
 
 
