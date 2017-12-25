@@ -57,38 +57,38 @@ include CMakeFiles/zhou_c.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/zhou_c.dir/flags.make
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o: CMakeFiles/zhou_c.dir/flags.make
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o: ../C\ Primer\ Plus(第六版)/The\ Ten\ Chapter/10.7指针和多维数组/zippo2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"   -c "/Users/zhoujie/zhou_c/C Primer Plus(第六版)/The Ten Chapter/10.7指针和多维数组/zippo2.c"
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o: CMakeFiles/zhou_c.dir/flags.make
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o: ../Book/C\ Primer\ Plus(第六版)/The\ Eleven\ Chapter/11.9把字符串转换成数字/strcnvt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o"   -c "/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Eleven Chapter/11.9把字符串转换成数字/strcnvt.c"
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/zhoujie/zhou_c/C Primer Plus(第六版)/The Ten Chapter/10.7指针和多维数组/zippo2.c" > "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i"
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Eleven Chapter/11.9把字符串转换成数字/strcnvt.c" > "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i"
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/zhoujie/zhou_c/C Primer Plus(第六版)/The Ten Chapter/10.7指针和多维数组/zippo2.c" -o "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s"
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Eleven Chapter/11.9把字符串转换成数字/strcnvt.c" -o "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s"
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.requires:
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.requires:
 
-.PHONY : CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.requires
+.PHONY : CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.requires
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.provides: CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.requires
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.provides.build"
-.PHONY : CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.provides
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.provides: CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.requires
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.provides.build"
+.PHONY : CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.provides
 
-CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.provides.build: CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.provides.build: CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o
 
 
 # Object files for target zhou_c
 zhou_c_OBJECTS = \
-"CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
+"CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o"
 
 # External object files for target zhou_c
 zhou_c_EXTERNAL_OBJECTS =
 
-zhou_c: CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+zhou_c: CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o
 zhou_c: CMakeFiles/zhou_c.dir/build.make
 zhou_c: CMakeFiles/zhou_c.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable zhou_c"
@@ -99,7 +99,7 @@ CMakeFiles/zhou_c.dir/build: zhou_c
 
 .PHONY : CMakeFiles/zhou_c.dir/build
 
-CMakeFiles/zhou_c.dir/requires: CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o.requires
+CMakeFiles/zhou_c.dir/requires: CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o.requires
 
 .PHONY : CMakeFiles/zhou_c.dir/requires
 

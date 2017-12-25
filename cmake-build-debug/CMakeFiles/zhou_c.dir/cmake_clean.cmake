@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
+  "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )

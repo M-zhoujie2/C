@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoujie/zhou_c/c/The Ten Chapter/10.7指针和多维数组/zippo2.c
+/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Eleven Chapter/11.9把字符串转换成数字/strcnvt.c
 stdio.h
 -
 stdlib.h

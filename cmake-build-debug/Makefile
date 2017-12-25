@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.o: Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o
 
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.o
 
 # target to build an object file
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o"
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.o
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.o
 
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.i: Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i
 
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.i
 
 # target to preprocess a source file
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i"
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.i
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.i
 
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s: C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.s: Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s
 
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.s
 
 # target to generate assembly for a file
-C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s"
-.PHONY : C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.c.s
+Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.o"
-	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.i"
-	@echo "... C_Primer_Plus(第六版)/The_Ten_Chapter/10.7指针和多维数组/zippo2.s"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.o"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.i"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Eleven_Chapter/11.9把字符串转换成数字/strcnvt.s"
 .PHONY : help
 
 
