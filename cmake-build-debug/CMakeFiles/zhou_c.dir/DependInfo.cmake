@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Twelve Chapter/12.4分配内存/where.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.o"
+  "/Users/zhoujie/zhou_c/Book/C Primer Plus(第六版)/The Fourteen Chapter/14.14函数和指针/func_ptr.c" "/Users/zhoujie/zhou_c/cmake-build-debug/CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

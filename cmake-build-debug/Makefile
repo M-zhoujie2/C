@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.o: Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.o
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.o
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o
 
 # target to build an object file
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.o"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.o
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o
 
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.i: Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.i
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.i
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i
 
 # target to preprocess a source file
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.i"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.i
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i
 
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.s: Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.s
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.s
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s
 
 # target to generate assembly for a file
-Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.s"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.c.s
+Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.o"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.i"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Twelve_Chapter/12.4分配内存/where.s"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s"
 .PHONY : help
 
 
