@@ -123,32 +123,32 @@ zhou_c/fast:
 	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make CMakeFiles/zhou_c.dir/build
 .PHONY : zhou_c/fast
 
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.o: Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.o
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.o
 
 # target to build an object file
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.o:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.o"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.o
 
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.i: Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.i
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.i
 
 # target to preprocess a source file
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.i
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.i:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.i"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.i
 
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s: Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.s: Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.s
 
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.s
 
 # target to generate assembly for a file
-Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s:
-	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s"
-.PHONY : Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.s
+Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.s:
+	$(MAKE) -f CMakeFiles/zhou_c.dir/build.make "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.s"
+.PHONY : Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... zhou_c"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.o"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.i"
-	@echo "... Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.s"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.o"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.i"
+	@echo "... Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.s"
 .PHONY : help
 
 

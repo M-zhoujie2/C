@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Fourteen_Chapter/14.14函数和指针/func_ptr.c.o"
+  "CMakeFiles/zhou_c.dir/Book/C_Primer_Plus(第六版)/The_Seventeen_Chapter/17.7二叉查找树/petclub.c.o"
   "zhou_c.pdb"
   "zhou_c"
 )
